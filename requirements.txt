@@ -1,0 +1,8 @@
+#https://github.com/prostomarkeloff/vk.py/archive/master.zip
+starlette==0.12.9
+uvicorn
+fastapi
+aiohttp
+aiofile
+cython
+pydantic==0.32.2
