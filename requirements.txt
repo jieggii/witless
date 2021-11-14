@@ -5,4 +5,4 @@ fastapi
 aiohttp
 aiofile
 cython
-pydantic==0.32.2
+pydantic==1.6.2
