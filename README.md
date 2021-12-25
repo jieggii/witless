@@ -6,11 +6,11 @@
 
 ## Список благодарностей
 Список людей благодаря которым бот существовал:
-* Илья Капуста — идея.
-* [@prostomarkellof](https://github.com/prostomarkeloff) и [@kesha1225](https://github.com/kesha1225) — менторинг.
+* Илья Капуста — идея
+* [@prostomarkellof](https://github.com/prostomarkeloff) и [@kesha1225](https://github.com/kesha1225) — менторинг
 * Витя Селин и Вадим Осипенко — помощь в модерации и администрации 
-[группы во ВКонтакте](https://vk.com/witless) и [сабреддита](https://reddit.com/r/witless).
-* Донатеры.
+[группы во ВКонтакте](https://vk.com/witless) и [сабреддита](https://reddit.com/r/witless)
+* Донатеры
 
 ## Зачем этот репозиторий?
 На это есть несколько причин:
