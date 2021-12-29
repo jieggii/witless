@@ -1,4 +1,4 @@
-#https://github.com/prostomarkeloff/vk.py/archive/master.zip
+https://github.com/prostomarkeloff/vk.py/archive/master.zip
 starlette==0.12.9
 uvicorn
 fastapi
